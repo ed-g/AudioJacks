@@ -30,3 +30,6 @@
 
 
 # Incomplete Parts
+
+* Jack_3.5mm_QingPu_WQP-PJ301M-12_Vertical sounds like it needs footprint edit.
+* PJ301BM needs pin sizes or orientations changed.
